@@ -2,7 +2,7 @@
  
 ## 🔵🔵About my meme🔵🔵 
 
-*The following is meme I made with R software package[{magick}](https://unidirectory.auckland.ac.nz/profile/a-fergusson)*
+*The following is meme I made with R software package[{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)*
 
 1. I fell in love with Stitch because I watched cartoons when I was a child. I liked his funny😜 and felt very happy to see him💗💗💗💗.
 2. I usually chat with my friends and often use meme to better express my emotions.
